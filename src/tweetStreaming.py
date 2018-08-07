@@ -9,10 +9,10 @@ from Connect_to_tweets import myListener, StreamListener
 
 
 #Variables that contains the user credentials to access Twitter API
-access_token = "4877931521-DmdYT3g11NiD3YlxtXyrgSsCcXj3DOv1uEEllYY"
-access_token_secret = "a8Vwm7QJpHCw3MfEPnn7pvbhIxS4O64Sstfumv09QvQx7"
-consumer_key = "NxeBCsikNDA00fRsCsSO6y44Y"
-consumer_secret = "hrCEqX3ieMbbU785tmkCJVlJ3moFr7i5T4e1SLly1YN3oUWIdo"
+access_token = ""
+access_token_secret = ""
+consumer_key = ""
+consumer_secret = ""
 if __name__ == '__main__':     
     
     #create Mylistener object \n",
